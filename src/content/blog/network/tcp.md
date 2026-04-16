@@ -1,6 +1,6 @@
 ---
 title: TCP入门
-link: http
+link: tcp
 catalog: true
 date: 2025-10-12 18:55:38
 description: 深入理解 TCP 协议的核心设计哲学。

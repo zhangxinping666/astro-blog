@@ -1,6 +1,6 @@
 ---
 title: WebSocket
-link: http
+link: WebSocket
 catalog: true
 date: 2025-10-12 18:55:38
 description: 从零构建WebSocket实时聊天室: 原理剖析与代码实战
